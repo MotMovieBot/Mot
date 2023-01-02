@@ -14,37 +14,6 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
-        <!-- <script type="text/javascript">
-            (function(d, m){
-                var kommunicateSettings = 
-                    {"appId":"2f13b19fabd430be4f2dac4e5fa07ebc2","popupWidget":true,"automaticChatOpenOnNavigation":true};
-                var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-                s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
-                var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
-                window.kommunicate = m; m._globals = kommunicateSettings;
-            })(document, window.kommunicate || {});
-        /* NOTE : Use web server to view HTML files as real-time update will not work if you directly open the HTML file in the browser. */
-        </script> -->
-        <!-- <script type="text/javascript">
-            function openChat() {
-                Kommunicate.displayKommunicateWidget(true);
-                Kommunicate.launchConversation();
-            }
-            (function(d, m){
-                var kommunicateSettings = {"appId":"APP_ID","popupWidget":true,"automaticChatOpenOnNavigation":true,
-                //The following settings will disable the widget on page load
-                "onInit": function()
-                {
-                    Kommunicate.displayKommunicateWidget(false);
-                    document.getElementsByTagName("button").disabled=false;
-                }
-                }
-                var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-                s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
-                var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
-                window.kommunicate = m; m._globals = kommunicateSettings;
-            })(document, window.kommunicate || {});
-        </script> -->
         <script>
             function openChat() {
                 Kommunicate.displayKommunicateWidget(true); //This will show the widget
@@ -91,7 +60,7 @@
                 <div class="d-flex justify-content-center">
                     <div class="text-center">
                         <h1 class="mx-auto my-0 text-uppercase" id="title">Mot - The Movie ChatBot</h1>
-                        <h2 class="mx-auto mt-2 mb-5">A simple way to choose your movie!</h2>
+                        <h2 class="mx-auto mt-2 mb-5" id="h2">Choose your movie!</h2>
                         <a class="btn btn-primary" href="#about">Get Started</a>
                     </div>
                 </div>
@@ -111,7 +80,7 @@
             </div>
             <div class="container px-4 px-lg-5"  id="chatbot">
                 <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
-                    <div class="col-xl-8 col-lg-7"><img id="zero" class="img-fluid mb-3 mb-lg-0" src="assets/img/bg-masthead.jpg" alt="..." /></div>
+                    <div class="col-xl-8 col-lg-7"><img id="zero" class="img-fluid mb-3 mb-lg-0" src="assets/img/netflix.png" alt="..." /></div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
                             <input type="button" value="Chat with Mot" id="button" class="btn btn-primary" disabled="true" onclick="openChat()"/>
