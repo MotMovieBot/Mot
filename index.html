@@ -28,11 +28,20 @@
                 document.getElementById("button").disabled=false;
             }
              }
+            kommunicateSettings.restartConversationByUser = true;
             var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
             s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
             var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
             window.kommunicate = m; m._globals = kommunicateSettings;
+            kommunicateSettings.onInit = function() {
+                var css = ".mck-box-top {background-color: red!important;}"
+                Kommunicate.customizeWidgetCss(css);
+
+             };
             })(document, window.kommunicate || {});
+
+
+
         </script>
     </head>
     <body id="page-top">
@@ -84,6 +93,7 @@
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
                             <input type="button" value="Chat with Mot" id="button" class="btn btn-primary" disabled="true" onclick="openChat()"/>
+                            <p>By clicking on the button you will open the chatbot popup window. If you want to reset and restrat the conversation, click on the three little dots in the banner of the popup!</p>
                         </div>
                     </div>
                 </div>
