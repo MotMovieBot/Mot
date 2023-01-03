@@ -33,11 +33,11 @@
             s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
             var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
             window.kommunicate = m; m._globals = kommunicateSettings;
-            kommunicateSettings.onInit = function() {
-                var css = ".mck-box-top {background-color: red!important;}"
-                Kommunicate.customizeWidgetCss(css);
+            // kommunicateSettings.onInit = function() {
+            //     var css = ".mck-box-top {background-color: red!important;}"
+            //     Kommunicate.customizeWidgetCss(css);
 
-             };
+            //  };
             })(document, window.kommunicate || {});
 
 
