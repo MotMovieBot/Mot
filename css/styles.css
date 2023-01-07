@@ -58,10 +58,12 @@
   --bs-body-bg: #000;
 }
 
-/* #m{
-  flex-shrink: 2;
-  overflow-wrap: break-word;
-} */
+#boh{
+  white-space: break-spaces;
+  font-size: 2vh;
+  
+  margin-right: 4%;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
