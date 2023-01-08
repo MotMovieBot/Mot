@@ -102,6 +102,8 @@ h2, .h2, h1, .h1 {
 
 #h2 {
   font-size: 5vh;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #prima{
@@ -111,6 +113,22 @@ h2, .h2, h1, .h1 {
 }
 
 #title {font-size: 10vh;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#zero{
+  margin-right: 10%;
+  margin-left: auto;
+}
+
+#button{
+  margin-right: 10%;
+}
+
+#bottone {
+  margin-right: 12%;
+  margin-left: 10%;
 }
 
 h1, .h1 {
