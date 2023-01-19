@@ -1,0 +1,154 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "Blade Runner: The Final Cut",
+                "subtitle": "\"Action & Adventure, Classic Movies, Cult Movies\"",
+                "description": "\"In a smog-choked dystopian Los Angeles, blade runner Rick Deckard is called out of retirement to snuff a quartet of escaped \\\"replicants.\\\"\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blade Runner: The Final Cut"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Do the Right Thing",
+                "subtitle": "\"Classic Movies, Comedies, Dramas\"",
+                "description": "\"On a sweltering day in Brooklyn, simmering racial tensions between residents rise to the surface and ignite rage, violence and tragedy.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Do the Right Thing"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ferris Bueller's Day Off",
+                "subtitle": "\"Classic Movies, Comedies, Cult Movies\"",
+                "description": "\"After faking an illness to skip school, popular teen Ferris Bueller enjoys a fun-filled day in Chicago with his girlfriend and his uptight best friend.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ferris Bueller's Day Off"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "My Fair Lady",
+                "subtitle": "\"Classic Movies, Music & Musicals\"",
+                "description": "\"When a Cockney flower girl takes elocution lessons from an aloof professor, he decides to introduce her to high society, transforming both their lives.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about My Fair Lady"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Once Upon a Time in America",
+                "subtitle": "\"Classic Movies, Dramas\"",
+                "description": "Director Sergio Leone's sprawling crime epic follows a group of Jewish mobsters who rise in the ranks of organized crime in 1920s New York City.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Once Upon a Time in America"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Rain Man",
+                "subtitle": "\"Classic Movies, Dramas\"",
+                "description": "\"Motivated by money, a selfish workaholic seeking a piece of his late father's inheritance takes a life-changing road trip with his estranged brother.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Rain Man"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Karate Kid",
+                "subtitle": "\"Action & Adventure, Children & Family Movies, Classic Movies\"",
+                "description": "\"When a bullied teen befriends an unassuming martial arts master, he\u2019ll learn life lessons \u2014 and the right moves \u2014 to beat back his merciless rivals.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Karate Kid"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "What's Eating Gilbert Grape",
+                "subtitle": "\"Classic Movies, Dramas, Independent Movies\"",
+                "description": "\"In a backwater Iowa town, young Gilbert is torn between taking care of his troubled family and a girl who shows him new possibilities for his life.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about What's Eating Gilbert Grape"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "White Christmas",
+                "subtitle": "\"Children & Family Movies, Classic Movies, Comedies\"",
+                "description": "\"Two war buddies fall for two sisters and follow the girls to a resort owned by their former commanding officer, who is in danger of losing the place.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about White Christmas"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

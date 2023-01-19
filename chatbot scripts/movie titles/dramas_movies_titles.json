@@ -1,0 +1,810 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "A Champion Heart",
+                "subtitle": "\"Children & Family Movies, Dramas\"",
+                "description": "\"When a grieving teen must work off her debt to a ranch, she cares for a wounded horse that teaches her more about healing than she expected.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Champion Heart"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Monster Calls",
+                "subtitle": "\"Dramas, Sci-Fi & Fantasy\"",
+                "description": "\"Overwhelmed by his mother\u2019s illness, a young boy begins to understand human complexity through the fantastic tales of a consoling tree monster.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Monster Calls"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Perfect Ending",
+                "subtitle": "\"Dramas, Independent Movies, LGBTQ Movies\"",
+                "description": "\"After confessing an unusual secret, a repressed wife \u2013 prompted by her friends \u2013 decides to explore her sexuality with a high-priced call girl.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Perfect Ending"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Private War",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"In this biopic, war correspondent Marie Colvin risks it all to bring back the truth from the frontlines, despite the toll it takes on her own life.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Private War"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "American Woman",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"In rural Pennsylvania, a working-class single mom must pick up the pieces and step up to raise her grandson after her daughter suddenly disappears.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about American Woman"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Blue Miracle",
+                "subtitle": "\"Children & Family Movies, Dramas, Faith & Spirituality\"",
+                "description": "\"To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blue Miracle"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Boogie Nights",
+                "subtitle": "\"Comedies, Dramas, Independent Movies\"",
+                "description": "A well-endowed busboy is taken in by a tight-knit group of 1970s porn actors and transforms himself into skin flick celebrity Dirk Diggler.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Boogie Nights"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Bright Star",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "This drama details the passionate three-year romance between Romantic poet John Keats \u2013 who died tragically at age 25 \u2013 and his great love and muse.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Bright Star"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Captain Fantastic",
+                "subtitle": "\"Comedies, Dramas, Independent Movies\"",
+                "description": "\"A father raising his children off the grid begins to question his anti-establishment, utopian views when a tragic loss pulls them back into society.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Captain Fantastic"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Cold Mountain",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "\"This drama follows a wounded Civil War soldier making the long journey home, while his faraway love fights for survival on her deceased father's farm.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Cold Mountain"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Dear John",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "\"While on summer leave, a U.S. soldier falls for a college student. But when he's forced to reenlist, their handwritten letters hold the lovers together.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Dear John"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Do the Right Thing",
+                "subtitle": "\"Classic Movies, Comedies, Dramas\"",
+                "description": "\"On a sweltering day in Brooklyn, simmering racial tensions between residents rise to the surface and ignite rage, violence and tragedy.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Do the Right Thing"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Five Feet Apart",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "A teen with cystic fibrosis shakes up her daily routine and challenges hospital protocol when she falls for a fellow patient.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Five Feet Apart"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Get on Up",
+                "subtitle": "\"Dramas, Music & Musicals\"",
+                "description": "Music legend James Brown makes a turbulent journey from humble origins to superstardom as the Godfather of Soul in this biopic starring Chadwick Boseman.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Get on Up"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Gimme Shelter",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"After running away from her abusive mother, a streetwise teen seeks refuge with her father, but he rejects her when he learns that she's pregnant.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Gimme Shelter"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hachi: A Dog's Tale",
+                "subtitle": "\"Children & Family Movies, Dramas\"",
+                "description": "\"When his master dies, a loyal pooch named Hachiko keeps a vigil for more than a decade at the train station where he once greeted his owner every day.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Hachi: A Dog's Tale"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Home Again",
+                "subtitle": "\"Comedies, Dramas, Romantic Movies\"",
+                "description": "\"A newly single mom takes in three young male filmmakers as boarders, but her estranged husband returns to complicate her new, unconventional life.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Home Again"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Letters to Juliet",
+                "subtitle": "\"Comedies, Dramas, Romantic Movies\"",
+                "description": "\"By responding to a letter addressed to Shakespeare's tragic heroine Juliet Capulet, an American woman in Verona, Italy, is led in search of romance.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Letters to Juliet"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Life as We Know It",
+                "subtitle": "\"Comedies, Dramas, Romantic Movies\"",
+                "description": "\"Holly and Eric discover reciprocal hatred during their first date, but must put their feelings aside after becoming guardians of their friends' baby.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Life as We Know It"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Like Crazy",
+                "subtitle": "\"Dramas, Independent Movies, Romantic Movies\"",
+                "description": "A spirited exchange student and an American man fall in love in LA. But their romance faces an uphill battle when she is forced to return to England.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Like Crazy"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Magnolia",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"Through chance, history and divine intervention, a cast of eclectic characters weaves and warps through each other's lives on a random day in California.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Magnolia"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Malcolm & Marie",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Malcolm & Marie"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Mandela: Long Walk to Freedom",
+                "subtitle": "\"Dramas, International Movies\"",
+                "description": "This in-depth biopic portrays groundbreaking South African leader Nelson Mandela's fight against political oppression and virulent racism.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Mandela: Long Walk to Freedom"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Memoirs of a Geisha",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "\"Sold to a geisha house as a child, a fisherman\u2019s daughter becomes the most sought-after geisha in Kyoto, but rivalries threaten the destiny she desires.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Memoirs of a Geisha"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Middle of Nowhere",
+                "subtitle": "\"Dramas, Independent Movies, Romantic Movies\"",
+                "description": "\"After her husband is sent to prison for eight years, medical student Ruby shelves her studies to focus on her partner's welfare as he serves his time.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Middle of Nowhere"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Midnight Sun",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "\"Born with a fatal sensitivity to sunlight, a sheltered teen girl falls for her neighbor, but hides her condition from him as their romance blossoms.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Midnight Sun"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Million Dollar Baby",
+                "subtitle": "\"Dramas, Sports Movies\"",
+                "description": "\"When a cantankerous trainer mentors a persistent amateur boxer determined to go pro, deep-seated emotions become their strongest opponents.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Million Dollar Baby"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Mother's Day",
+                "subtitle": "\"Comedies, Dramas\"",
+                "description": "The trials and tribulations of several Atlanta moms (and one clueless widower dad) make it a Mother's Day to remember in this ensemble comedy.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Mother's Day"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Once Upon a Time in America",
+                "subtitle": "\"Classic Movies, Dramas\"",
+                "description": "Director Sergio Leone's sprawling crime epic follows a group of Jewish mobsters who rise in the ranks of organized crime in 1920s New York City.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Once Upon a Time in America"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Rain Man",
+                "subtitle": "\"Classic Movies, Dramas\"",
+                "description": "\"Motivated by money, a selfish workaholic seeking a piece of his late father's inheritance takes a life-changing road trip with his estranged brother.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Rain Man"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Really Love",
+                "subtitle": "\"Dramas, Independent Movies, Romantic Movies\"",
+                "description": "A rising Black painter tries to break into a competitive art world while balancing an unexpected romance with an ambitious law student.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Really Love"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Same Kind of Different as Me",
+                "subtitle": "\"Dramas, Faith & Spirituality\"",
+                "description": "A wealthy couple whose marriage is on the rocks befriends a local homeless man who changes their perspectives in this inspiring true story.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Same Kind of Different as Me"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Savages",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"With the help of a shady DEA agent, two weed entrepreneurs take on a merciless cartel leader who wants in on their business and kidnaps their lover.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Savages"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Seven Pounds",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "\"Weighed down by a dark secret, IRS agent Ben Thomas tries to improve the lives of seven strangers in need of a second chance.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Seven Pounds"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Skater Girl",
+                "subtitle": "\"Children & Family Movies, Dramas, International Movies\"",
+                "description": "\"When a teen in rural India discovers a life-changing passion for skateboarding, she faces a rough road as she follows her dream to compete.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Skater Girl"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "State of Play",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "A veteran journalist teams up with a young reporter to untangle a web of lies surrounding the suspicious death of a woman tied to a powerful politician.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about State of Play"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The American",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"Dispatched to a small Italian town to await further orders, assassin Jack embarks on a double life that may be more relaxing than is good for him.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The American"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Edge of Seventeen",
+                "subtitle": "\"Comedies, Dramas\"",
+                "description": "A troubled teenager finds high school life even less bearable after she catches her childhood best friend hooking up with her popular older brother.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Edge of Seventeen"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Last Letter From Your Lover",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "\"After finding a trove of love letters from 1965, a reporter sets out to solve the mystery of a secret affair \u2014 while embarking on a romance of her own.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Last Letter From Your Lover"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Lincoln Lawyer",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "A street-wise defense lawyer who operates out of the back seat of his Lincoln lands a high-profile case that soon puts him and his family in danger.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Lincoln Lawyer"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Master",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"A heavy-drinking loner finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \\\"religion.\\\"\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Master"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Next Three Days",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"When his wife becomes a murder suspect and is sent to prison, a professor plots a meticulous plan to take back her freedom and reunite his family.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Next Three Days"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Pianist",
+                "subtitle": "\"Dramas, Independent Movies, International Movies\"",
+                "description": "Famed Polish pianist Wladyslaw Szpilman struggles to survive the onslaught of Nazi tyranny during World War II in this drama based on his memoirs.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Pianist"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Queen",
+                "subtitle": "\"Dramas, International Movies\"",
+                "description": "\"After Princess Diana's death, Queen Elizabeth II and Tony Blair face public demands that she be memorialized in a manner beyond standard protocol.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Queen"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Resurrection of Gavin Stone",
+                "subtitle": "\"Children & Family Movies, Comedies, Dramas\"",
+                "description": "\"After one too many run-ins with the law, a Hollywood bad boy finds redemption while fulfilling his court-ordered community service at a megachurch.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Resurrection of Gavin Stone"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Wedding Guest",
+                "subtitle": "\"Dramas, Romantic Movies, Thrillers\"",
+                "description": "\"Hired to extract a bride-to-be before her arranged wedding in Pakistan, a hired gun goes on the run with his hostage when his plan unravels.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Wedding Guest"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Whole Truth",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"Trying to earn an acquittal for a teen client accused of murdering his wealthy father, a defense attorney uncovers disturbing facts about the victim.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Whole Truth"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The World We Make",
+                "subtitle": "\"Dramas, Romantic Movies\"",
+                "description": "\"A teenage equestrian and a local football player fall for each other, but simmering racism in their small town puts their relationship to the test.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The World We Make"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "What Dreams May Come",
+                "subtitle": "\"Dramas, Romantic Movies, Sci-Fi & Fantasy\"",
+                "description": "\"A physician finds himself in heaven after an accident, inhabiting the landscape of his wife's paintings while seeking to rescue her from the underworld.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about What Dreams May Come"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "What's Eating Gilbert Grape",
+                "subtitle": "\"Classic Movies, Dramas, Independent Movies\"",
+                "description": "\"In a backwater Iowa town, young Gilbert is torn between taking care of his troubled family and a girl who shows him new possibilities for his life.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about What's Eating Gilbert Grape"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

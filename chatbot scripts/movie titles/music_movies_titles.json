@@ -1,0 +1,266 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "Ariana grande: excuse me, i love you",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ariana grande: excuse me, i love you"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Very Country Christmas",
+                "subtitle": "\"Music & Musicals, Romantic Movies\"",
+                "description": "\"When an unfulfilled country music star hides out in his hometown, he meets a budding interior designer who finds her way into his heart.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Very Country Christmas"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Arlo the Alligator Boy",
+                "subtitle": "\"Children & Family Movies, Comedies, Music & Musicals\"",
+                "description": "\"To find the father he never knew, optimistic Arlo leaves his swampy Southern home for New York City, making friends along the way. A musical adventure.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Arlo the Alligator Boy"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Biggie: I Got a Story to Tell",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Featuring rare footage and in-depth interviews, this documentary celebrates the life of The Notorious B.I.G. on his journey from hustler to rap king.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Biggie: I Got a Story to Tell"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Count Me In",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "This documentary features some of rock's greatest drummers as they come together in an inspiring rhythmic journey about the power of human connection.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Count Me In"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Dark City Beneath the Beat",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"In this documentary, TT the Artist captures the irrepressible bounce and infectious beats of a Baltimore club scene that demands to be seen and heard.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Dark City Beneath the Beat"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Get on Up",
+                "subtitle": "\"Dramas, Music & Musicals\"",
+                "description": "Music legend James Brown makes a turbulent journey from humble origins to superstardom as the Godfather of Soul in this biopic starring Chadwick Boseman.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Get on Up"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Using interviews and archival footage, this documentary charts the story of the legendary Southern rockers with a focus on front man Ronnie Van Zant.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Love Is a Story",
+                "subtitle": "\"International Movies, Music & Musicals, Romantic Movies\"",
+                "description": "\"Two young artists, a violin player and an actress, fight to achieve their dreams and keep their relationship together during Christmastime.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Love Is a Story"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "My Fair Lady",
+                "subtitle": "\"Classic Movies, Music & Musicals\"",
+                "description": "\"When a Cockney flower girl takes elocution lessons from an aloof professor, he decides to introduce her to high society, transforming both their lives.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about My Fair Lady"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Over the Moon",
+                "subtitle": "\"Children & Family Movies, Music & Musicals\"",
+                "description": "\"Fueled by memories of her mother, resourceful Fei Fei builds a rocket to the moon on a mission to prove the existence of a legendary moon goddess.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Over the Moon"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Rhyme & Reason",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"The world and culture of rap song topics such as race, violence, police, family and sex are examined by hip-hop performers from both coasts.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Rhyme & Reason"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "School of Rock",
+                "subtitle": "\"Comedies, Music & Musicals\"",
+                "description": "\"Musician Dewey Finn gets a job as a fourth-grade substitute teacher, where he secretly begins teaching his students the finer points of rock 'n' roll.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about School of Rock"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Shawn Mendes: In Wonder",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Over the course of a world tour, this unguarded documentary follows Shawn Mendes as he opens up about his stardom, relationships and musical future.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Shawn Mendes: In Wonder"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "This Is the Life",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Examine how the group of alternative hip-hop artists known as the Good Lifers started a movement and created a robust, progressive musical community.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about This Is the Life"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Time Is Illmatic",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Providing a behind-the-scenes look at the making of Nas's debut album, this documentary also delves into his deep connection to his New York roots.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Time Is Illmatic"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

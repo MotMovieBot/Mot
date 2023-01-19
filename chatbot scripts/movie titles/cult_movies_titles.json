@@ -1,0 +1,122 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "Battlefield Earth",
+                "subtitle": "\"Action & Adventure, Cult Movies, Sci-Fi & Fantasy\"",
+                "description": "\"In the year 3000, an alien race known as the Psychlos devastate planet Earth and force the surviving human population into slavery.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Battlefield Earth"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Blade Runner: The Final Cut",
+                "subtitle": "\"Action & Adventure, Classic Movies, Cult Movies\"",
+                "description": "\"In a smog-choked dystopian Los Angeles, blade runner Rick Deckard is called out of retirement to snuff a quartet of escaped \\\"replicants.\\\"\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blade Runner: The Final Cut"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ferris Bueller's Day Off",
+                "subtitle": "\"Classic Movies, Comedies, Cult Movies\"",
+                "description": "\"After faking an illness to skip school, popular teen Ferris Bueller enjoys a fun-filled day in Chicago with his girlfriend and his uptight best friend.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ferris Bueller's Day Off"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hostel: Part III",
+                "subtitle": "\"Cult Movies, Horror Movies\"",
+                "description": "\"In this installment in the popular horror franchise, a bachelor party in Las Vegas turns into a hellish bloodbath for all involved.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Hostel: Part III"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "House Party",
+                "subtitle": "\"Comedies, Cult Movies\"",
+                "description": "\"Grounded by his strict father, Kid risks life and limb to go to his best friend Play's big bash but experiences one obstacle after another.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about House Party"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Snowpiercer",
+                "subtitle": "\"Action & Adventure, Cult Movies, International Movies\"",
+                "description": "The Earth's remaining inhabitants are confined to a single train circling the globe as revolution brews among the class-divided cars.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Snowpiercer"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Team America: World Police",
+                "subtitle": "\"Action & Adventure, Comedies, Cult Movies\"",
+                "description": "\"In this musical satire, an all-marionette police force takes on the challenging role of keeping the peace on a troubled planet.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Team America: World Police"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

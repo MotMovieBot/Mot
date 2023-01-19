@@ -1,0 +1,426 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "A Champion Heart",
+                "subtitle": "\"Children & Family Movies, Dramas\"",
+                "description": "\"When a grieving teen must work off her debt to a ranch, she cares for a wounded horse that teaches her more about healing than she expected.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Champion Heart"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Cinderella Story",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "Teen Sam meets the boy of her dreams at a dance before returning to toil in her stepmother's diner. Can her lost cell phone bring them together?",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Cinderella Story"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Arlo the Alligator Boy",
+                "subtitle": "\"Children & Family Movies, Comedies, Music & Musicals\"",
+                "description": "\"To find the father he never knew, optimistic Arlo leaves his swampy Southern home for New York City, making friends along the way. A musical adventure.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Arlo the Alligator Boy"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Beethoven",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "\"A father reluctantly agrees to let his children keep a St. Bernard puppy, but the playful pooch soon turns into a full-grown engine of destruction.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Beethoven"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Blue Miracle",
+                "subtitle": "\"Children & Family Movies, Dramas, Faith & Spirituality\"",
+                "description": "\"To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blue Miracle"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Cloudy with a Chance of Meatballs",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"When inventor Flint Lockwood makes clouds rain food, the citizens of Chewandswallow can feed themselves. But a bowl of disaster is about to overflow.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Cloudy with a Chance of Meatballs"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Dance Dreams: Hot Chocolate Nutcracker",
+                "subtitle": "\"Children & Family Movies, Documentaries\"",
+                "description": "This documentary spotlights Debbie Allen's career and follows her group of dance students as they prepare for Allen's annual \\Hot Chocolate Nutcracker.\\\"\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Dance Dreams: Hot Chocolate Nutcracker"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Escape from Planet Earth",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"This all-ages animated comedy follows the adventures of astronaut Scorch Supernova, a hero of the blue aliens who has a vast appetite for adventure.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Escape from Planet Earth"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hachi: A Dog's Tale",
+                "subtitle": "\"Children & Family Movies, Dramas\"",
+                "description": "\"When his master dies, a loyal pooch named Hachiko keeps a vigil for more than a decade at the train station where he once greeted his owner every day.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Hachi: A Dog's Tale"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Kung Fu Panda",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "\"When a powerful villain comes after peace in his valley, a lazy panda rises to the challenge to realize his destiny and become a kung fu warrior.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Kung Fu Panda"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Monster Hunter: Legends of the Guild",
+                "subtitle": "\"Action & Adventure, Anime Features, Children & Family Movies\"",
+                "description": "\"In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Monster Hunter: Legends of the Guild"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Over the Moon",
+                "subtitle": "\"Children & Family Movies, Music & Musicals\"",
+                "description": "\"Fueled by memories of her mother, resourceful Fei Fei builds a rocket to the moon on a mission to prove the existence of a legendary moon goddess.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Over the Moon"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Penguins of Madagascar: The Movie",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "\"Elite penguin spies Skipper, Kowalski, Rico and Private join forces with the suave agents of the North Wind to defeat power-mad genius Octavius Brine.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Penguins of Madagascar: The Movie"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Planet 51",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"After landing on a planet reminiscent of 1950s suburbia, a human astronaut tries to avoid capture, recover his spaceship and make it home safely.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Planet 51"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ratchet and Clank",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "Affable alien Ratchet longs to be a Galactic Ranger and might get the chance when rogue robot Clank tells him of evil Drek's plot to destroy a galaxy.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ratchet and Clank"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Show Dogs",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "A rough and tough police dog must go undercover with an FBI agent as a prim and proper pet at a dog show to save a baby panda from an illegal sale.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Show Dogs"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Skater Girl",
+                "subtitle": "\"Children & Family Movies, Dramas, International Movies\"",
+                "description": "\"When a teen in rural India discovers a life-changing passion for skateboarding, she faces a rough road as she follows her dream to compete.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Skater Girl"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Snow Day",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "\"When a snow day shuts down the whole town, the Wheeler family cuts loose. Hal makes a play for the most popular girl in his school, 10-year-old Natalie takes on the dreaded snowplow man, and Dad gets into a showdown with a rival meteorologist.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Snow Day"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Spy Kids: All the Time in the World",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "Twins Rebecca and Cecil spring into action with their retired secret agent stepmother to stop a time-manipulating mastermind and his nefarious plans.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Spy Kids: All the Time in the World"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Stuart Little",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "\"When his parents adopt a mouse instead of a little boy, George realizes brothers come in all shapes and sizes. But Snowbell the cat is not so welcoming.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Stuart Little"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Karate Kid",
+                "subtitle": "\"Action & Adventure, Children & Family Movies, Classic Movies\"",
+                "description": "\"When a bullied teen befriends an unassuming martial arts master, he\u2019ll learn life lessons \u2014 and the right moves \u2014 to beat back his merciless rivals.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Karate Kid"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Resurrection of Gavin Stone",
+                "subtitle": "\"Children & Family Movies, Comedies, Dramas\"",
+                "description": "\"After one too many run-ins with the law, a Hollywood bad boy finds redemption while fulfilling his court-ordered community service at a megachurch.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Resurrection of Gavin Stone"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "White Christmas",
+                "subtitle": "\"Children & Family Movies, Classic Movies, Comedies\"",
+                "description": "\"Two war buddies fall for two sisters and follow the girls to a resort owned by their former commanding officer, who is in danger of losing the place.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about White Christmas"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Wish Dragon",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Wish Dragon"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Woody Woodpecker",
+                "subtitle": "\"Children & Family Movies, Comedies\"",
+                "description": "A rascally bird with a distinctive laugh pecks back with a vengeance when his forest habitat is threatened by a slick lawyer building his dream home.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Woody Woodpecker"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Zathura",
+                "subtitle": "\"Children & Family Movies, Sci-Fi & Fantasy\"",
+                "description": "\"A mysterious game sends two brothers flying into space, where they must reach the planet Zathura \u2014 or be trapped in galactic limbo forever.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Zathura"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

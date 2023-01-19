@@ -1,0 +1,79 @@
+{
+    "metadata": {
+      "templateId": "6",
+      "payload": [
+        {
+          "title": "Action & Adventure",
+          "message": "I'd like to watch an Action & Adventure film"
+        },
+        {
+          "message": "I'd like to watch an Anime Features film",
+          "title": "Anime Features"
+        },
+        {
+          "title": "Children & Family Movies",
+          "message": "I'd like to watch one of the available Children & Family Movies"
+        },
+        {
+          "title": "Classic Movies",
+          "message": "I'd like to watch one of the available Classic Movies"
+        },
+        {
+          "title": "Comedies",
+          "message": "I'd like to watch one of the available Comedies"
+        },
+        {
+          "title": "Cult Movies",
+          "message": "I'd like to watch one of the available Cult Movies"
+        },
+        {
+          "message": "I'd like to watch one of the available Documentaries",
+          "title": "Documentaries"
+        },
+        {
+          "message": "I'd like to watch one of the available Dramas",
+          "title": "Dramas"
+        },
+        {
+          "message": "I'd like to watch one of the available Horror Movies",
+          "title": "Horror Movies"
+        },
+        {
+          "title": "Independent Movies",
+          "message": "I'd like to watch one of the available Independent Movies"
+        },
+        {
+          "title": "International Movies",
+          "message": "I'd like to watch one of the available International Movies"
+        },
+        {
+          "message": "I'd like to watch one of the available LGBTQ Movies",
+          "title": "LGBTQ Movies"
+        },
+        {
+          "message": "I'd like to watch a film of the category Music & Musicals",
+          "title": "Music & Musicals"
+        },
+        {
+          "title": "Romantic Movies",
+          "message": "I'd like to watch one of the available Romantic Movies"
+        },
+        {
+          "message": "I'd like to watch a Sci-fi & Fantasy film",
+          "title": "Sci-Fi & Fantasy"
+        },
+        {
+            "message": "I'd like to watch one of the available Sports Movies",
+            "title": "Sports Movies"
+        },
+        {
+            "title": "Thrillers",
+            "message": "I'd like to watch one of the available Thrillers"
+        }
+        ],
+        "contentType": "300"
+    },
+    "message": "Select one of the following categories!",
+    "platform": "kommunicate"
+    }
+        

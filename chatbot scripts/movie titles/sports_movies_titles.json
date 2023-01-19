@@ -1,0 +1,122 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "Accomplice",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "Traverse the globe with the world's top riders as they pedal through rugged terrain and majestic locations in this visual homage to the bicycle.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Accomplice"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Born to Play",
+                "subtitle": "\"Documentaries, Sports Movies\"",
+                "description": "\"This documentary follows the Boston Renegades \u2014 an all-woman, tackle football team \u2014 as they risk their time, families and day jobs for the game.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Born to Play"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Million Dollar Baby",
+                "subtitle": "\"Dramas, Sports Movies\"",
+                "description": "\"When a cantankerous trainer mentors a persistent amateur boxer determined to go pro, deep-seated emotions become their strongest opponents.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Million Dollar Baby"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Not a Game",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "\"This documentary offers an honest look at our fraught, complex relationship to video games from the perspectives of gamers and their concerned parents.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Not a Game"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pel\u00e9",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "\"Against the backdrop of a turbulent era in Brazil, this documentary captures Pel\u00e9\u2019s extraordinary path from breakthrough talent to national hero.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Pel\u00e9"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Untold: Breaking Point",
+                "subtitle": "\"Documentaries, Sports Movies\"",
+                "description": "\"Under pressure to continue a winning tradition in American tennis, Mardy Fish faced mental health challenges that changed his life on and off the court.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Untold: Breaking Point"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Untold: Malice at the Palace",
+                "subtitle": "\"Documentaries, Sports Movies\"",
+                "description": "\"Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Untold: Malice at the Palace"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

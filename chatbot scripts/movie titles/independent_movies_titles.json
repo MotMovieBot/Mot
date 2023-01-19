@@ -1,0 +1,346 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "A Perfect Ending",
+                "subtitle": "\"Dramas, Independent Movies, LGBTQ Movies\"",
+                "description": "\"After confessing an unusual secret, a repressed wife \u2013 prompted by her friends \u2013 decides to explore her sexuality with a high-priced call girl.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Perfect Ending"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Private War",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"In this biopic, war correspondent Marie Colvin risks it all to bring back the truth from the frontlines, despite the toll it takes on her own life.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Private War"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "American Woman",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"In rural Pennsylvania, a working-class single mom must pick up the pieces and step up to raise her grandson after her daughter suddenly disappears.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about American Woman"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Boogie Nights",
+                "subtitle": "\"Comedies, Dramas, Independent Movies\"",
+                "description": "A well-endowed busboy is taken in by a tight-knit group of 1970s porn actors and transforms himself into skin flick celebrity Dirk Diggler.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Boogie Nights"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Captain Fantastic",
+                "subtitle": "\"Comedies, Dramas, Independent Movies\"",
+                "description": "\"A father raising his children off the grid begins to question his anti-establishment, utopian views when a tragic loss pulls them back into society.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Captain Fantastic"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Chef",
+                "subtitle": "\"Comedies, Independent Movies\"",
+                "description": "\"After igniting a Twitter war with a well-known culinary critic, a Los Angeles chef packs his knives, heads home to Miami and opens a food truck.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Chef"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Deadly Switch",
+                "subtitle": "\"Independent Movies, Thrillers\"",
+                "description": "\"In this indie thriller, a foreign exchange student moves in with her roommate's family who grieves over the daughter they would do anything to get back.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Deadly Switch"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Gimme Shelter",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"After running away from her abusive mother, a streetwise teen seeks refuge with her father, but he rejects her when he learns that she's pregnant.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Gimme Shelter"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "His House",
+                "subtitle": "\"Horror Movies, Independent Movies\"",
+                "description": "\"As a young couple from war-torn South Sudan seeks asylum and a fresh start in England, they\u2019re tormented by a sinister force living in their new home.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about His House"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Layer Cake",
+                "subtitle": "\"Independent Movies, International Movies, Thrillers\"",
+                "description": "\"A suave, steely-eyed London cocaine dealer's retirement plans hit a violent snag when his boss asks him to do one more job.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Layer Cake"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Like Crazy",
+                "subtitle": "\"Dramas, Independent Movies, Romantic Movies\"",
+                "description": "A spirited exchange student and an American man fall in love in LA. But their romance faces an uphill battle when she is forced to return to England.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Like Crazy"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Magnolia",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"Through chance, history and divine intervention, a cast of eclectic characters weaves and warps through each other's lives on a random day in California.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Magnolia"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Malcolm & Marie",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"As a filmmaker and his girlfriend return home from his movie premiere, smoldering tensions and painful revelations push them toward a romantic reckoning.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Malcolm & Marie"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Middle of Nowhere",
+                "subtitle": "\"Dramas, Independent Movies, Romantic Movies\"",
+                "description": "\"After her husband is sent to prison for eight years, medical student Ruby shelves her studies to focus on her partner's welfare as he serves his time.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Middle of Nowhere"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Really Love",
+                "subtitle": "\"Dramas, Independent Movies, Romantic Movies\"",
+                "description": "A rising Black painter tries to break into a competitive art world while balancing an unexpected romance with an ambitious law student.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Really Love"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Block Island Sound",
+                "subtitle": "\"Horror Movies, Independent Movies\"",
+                "description": "\"On an island, a fisherman's family faces horrors and dark truths when an ominous force begins killing the wildlife and puts their own lives in danger.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Block Island Sound"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Master",
+                "subtitle": "\"Dramas, Independent Movies\"",
+                "description": "\"A heavy-drinking loner finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new \\\"religion.\\\"\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Master"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Pianist",
+                "subtitle": "\"Dramas, Independent Movies, International Movies\"",
+                "description": "Famed Polish pianist Wladyslaw Szpilman struggles to survive the onslaught of Nazi tyranny during World War II in this drama based on his memoirs.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Pianist"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Swarm",
+                "subtitle": "\"Horror Movies, Independent Movies, International Movies\"",
+                "description": "\"A single mother breeds locusts as high-protein food, but has trouble getting them to reproduce \u2014 until she finds they have a taste for blood.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Swarm"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Walk of Shame",
+                "subtitle": "\"Comedies, Independent Movies\"",
+                "description": "\"After a night of boozy carousing, a local newscaster finds herself stranded on the streets of LA just hours before the job interview of a lifetime.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Walk of Shame"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "What's Eating Gilbert Grape",
+                "subtitle": "\"Classic Movies, Dramas, Independent Movies\"",
+                "description": "\"In a backwater Iowa town, young Gilbert is torn between taking care of his troubled family and a girl who shows him new possibilities for his life.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about What's Eating Gilbert Grape"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

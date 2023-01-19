@@ -1,0 +1,346 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "\"Ariana grande: excuse me, i love you\"",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "Ariana Grande takes the stage in London for her Sweetener World Tour and shares a behind-the-scenes look at her life in rehearsal and on the road.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about \"Ariana grande: excuse me, i love you\""
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Accomplice",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "Traverse the globe with the world's top riders as they pedal through rugged terrain and majestic locations in this visual homage to the bicycle.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Accomplice"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Biggie: I Got a Story to Tell",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Featuring rare footage and in-depth interviews, this documentary celebrates the life of The Notorious B.I.G. on his journey from hustler to rap king.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Biggie: I Got a Story to Tell"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Born to Play",
+                "subtitle": "\"Documentaries, Sports Movies\"",
+                "description": "\"This documentary follows the Boston Renegades \u2014 an all-woman, tackle football team \u2014 as they risk their time, families and day jobs for the game.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Born to Play"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Brave Blue World: Racing to Solve Our Water Crisis",
+                "subtitle": "\"Documentaries, International Movies\"",
+                "description": "\"From reuse to energy generation, new innovations across five continents are explored in this documentary about building a future for sustainable water.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Brave Blue World: Racing to Solve Our Water Crisis"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Count Me In",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "This documentary features some of rock's greatest drummers as they come together in an inspiring rhythmic journey about the power of human connection.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Count Me In"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Dance Dreams: Hot Chocolate Nutcracker",
+                "subtitle": "\"Children & Family Movies, Documentaries\"",
+                "description": "This documentary spotlights Debbie Allen's career and follows her group of dance students as they prepare for Allen's annual \\Hot Chocolate Nutcracker.\\\"\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Dance Dreams: Hot Chocolate Nutcracker"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Dark City Beneath the Beat",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"In this documentary, TT the Artist captures the irrepressible bounce and infectious beats of a Baltimore club scene that demands to be seen and heard.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Dark City Beneath the Beat"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Using interviews and archival footage, this documentary charts the story of the legendary Southern rockers with a focus on front man Ronnie Van Zant.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Made You Look: A True Story About Fake Art",
+                "subtitle": "\"Documentaries, International Movies\"",
+                "description": "\"A woman walks into a New York gallery with a cache of unknown masterworks. Thus begins a story of art world greed, willfulness and a high-stakes con.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Made You Look: A True Story About Fake Art"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Misha and the Wolves",
+                "subtitle": "\"Documentaries, International Movies\"",
+                "description": "\"As a little girl, she escaped the Holocaust and lived among wolves. Or did she? An extraordinary story elicits sympathy \u2014 then draws scrutiny.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Misha and the Wolves"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Not a Game",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "\"This documentary offers an honest look at our fraught, complex relationship to video games from the perspectives of gamers and their concerned parents.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Not a Game"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pel\u00e9",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "\"Against the backdrop of a turbulent era in Brazil, this documentary captures Pel\u00e9\u2019s extraordinary path from breakthrough talent to national hero.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Pel\u00e9"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pray Away",
+                "subtitle": "\"Documentaries, LGBTQ Movies\"",
+                "description": "Ex-leaders and a survivor of the so-called \\conversion therapy\\\" movement speak out about its harm to the LGBTQ+ community and its devastating persistence.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Pray Away"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Rhyme & Reason",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"The world and culture of rap song topics such as race, violence, police, family and sex are examined by hip-hop performers from both coasts.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Rhyme & Reason"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Shawn Mendes: In Wonder",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Over the course of a world tour, this unguarded documentary follows Shawn Mendes as he opens up about his stardom, relationships and musical future.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Shawn Mendes: In Wonder"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Snervous Tyler Oakley",
+                "subtitle": "\"Documentaries, LGBTQ Movies\"",
+                "description": "The inspiring Internet star and LGBT advocate shares an intimate view of his life and relationships during his international \\Slumber Party\\\" tour.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Snervous Tyler Oakley"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "This Is the Life",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Examine how the group of alternative hip-hop artists known as the Good Lifers started a movement and created a robust, progressive musical community.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about This Is the Life"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Time Is Illmatic",
+                "subtitle": "\"Documentaries, Music & Musicals\"",
+                "description": "\"Providing a behind-the-scenes look at the making of Nas's debut album, this documentary also delves into his deep connection to his New York roots.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Time Is Illmatic"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Untold: Breaking Point",
+                "subtitle": "\"Documentaries, Sports Movies\"",
+                "description": "\"Under pressure to continue a winning tradition in American tennis, Mardy Fish faced mental health challenges that changed his life on and off the court.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Untold: Breaking Point"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Untold: Malice at the Palace",
+                "subtitle": "\"Documentaries, Sports Movies\"",
+                "description": "\"Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout and its lasting legacy.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Untold: Malice at the Palace"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

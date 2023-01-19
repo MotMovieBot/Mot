@@ -1,0 +1,554 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "Blue, Painful, Fragile",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Kaede and Hisano form a club to change the world. When Hisano vanishes, Kaede throws himself into bringing the club back to its idealistic roots.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blue, Painful, Fragile"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "40 Sticks",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"When their prison bus crashes in a forest on a rainy night, a group of criminals finds themselves battling wild animals and a mysterious killer.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about 40 Sticks"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Al acecho",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Looking for a fresh start, a park ranger gets a new assignment. When he discovers a network of poachers, survival depends on his lethal instincts.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Al acecho"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Andhakaaram",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"As a blind librarian, dispirited cricketer and desolate psychiatrist each seek retribution and release, their lives overlap under eerie influences.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Andhakaaram"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Case 39",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "A na\u00efve social worker brings a 10-year-old child into her home to rescue the girl from abusive parents \u2013 only to learn that she isn't what she seems.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Case 39"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Deadly Switch",
+                "subtitle": "\"Independent Movies, Thrillers\"",
+                "description": "\"In this indie thriller, a foreign exchange student moves in with her roommate's family who grieves over the daughter they would do anything to get back.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Deadly Switch"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ghost Lab",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ghost Lab"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "HOMUNCULUS",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "Truth and illusion blurs when a homeless amnesiac awakens from an experimental medical procedure with the ability to see people's innermost traumas.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about HOMUNCULUS"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "I Care a Lot",
+                "subtitle": "\"Comedies, LGBTQ Movies, Thrillers\"",
+                "description": "A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about I Care a Lot"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Incarnate",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "An unconventional demon hunter faces his greatest challenge when he steps inside the subconscious mind of a boy possessed by a powerful entity.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Incarnate"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Inception",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy, Thrillers\"",
+                "description": "A troubled thief who extracts secrets from people's dreams takes one last job: leading a dangerous mission to plant an idea in a target's subconscious.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Inception"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Insidious",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "\"A family moves into a new home, where their son falls into a coma and eerie events begin to reveal something far more sinister is lurking in the house.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Insidious"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Layer Cake",
+                "subtitle": "\"Independent Movies, International Movies, Thrillers\"",
+                "description": "\"A suave, steely-eyed London cocaine dealer's retirement plans hit a violent snag when his boss asks him to do one more job.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Layer Cake"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Level 16",
+                "subtitle": "\"Sci-Fi & Fantasy, Thrillers\"",
+                "description": "\"In a bleak academy that teaches girls the virtues of passivity, two students uncover the ghastly purpose behind their training and resolve to escape.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Level 16"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Paradise Hills",
+                "subtitle": "\"Sci-Fi & Fantasy, Thrillers\"",
+                "description": "\"Uma wakes up in a lush tropical facility designed to turn willful girls into perfect ladies. That\u2019s bad enough, but its real purpose is even worse.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Paradise Hills"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Population 436",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "\"A census taker sent to investigate why Rockwell Falls has had the same population, 436, for more than a century, soon wishes he hadn't taken the job.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Population 436"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Prospect",
+                "subtitle": "\"Sci-Fi & Fantasy, Thrillers\"",
+                "description": "A father and daughter travel to an alien moon in search of a valuable gem but are forced to alter their plans when a nefarious outlaw gets involved.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Prospect"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Red Dot",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Trying to rekindle their marriage and with a child on the way, a young couple on a ski trip suddenly finds themselves stalked by remorseless killers.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Red Dot"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Savages",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"With the help of a shady DEA agent, two weed entrepreneurs take on a merciless cartel leader who wants in on their business and kidnaps their lover.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Savages"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "State of Play",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "A veteran journalist teams up with a young reporter to untangle a web of lies surrounding the suspicious death of a woman tied to a powerful politician.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about State of Play"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The 8th Night",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"With prayer beads in one hand and an ax in the other, a monk hunts down a millennia-old spirit that's possessing humans and unleashing hell on Earth.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The 8th Night"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The American",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"Dispatched to a small Italian town to await further orders, assassin Jack embarks on a double life that may be more relaxing than is good for him.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The American"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Call",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Connected by phone in the same home but 20 years apart, a serial killer puts another woman\u2019s past \u2014 and life \u2014 on the line to change her own fate.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Call"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Conjuring",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "\"When a family starts experiencing supernatural terrors after moving into a Rhode Island farmhouse, they seek the help of a pair of noted demonologists.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Conjuring"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Lincoln Lawyer",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "A street-wise defense lawyer who operates out of the back seat of his Lincoln lands a high-profile case that soon puts him and his family in danger.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Lincoln Lawyer"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Next Three Days",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"When his wife becomes a murder suspect and is sent to prison, a professor plots a meticulous plan to take back her freedom and reunite his family.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Next Three Days"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Stepfather",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "A series of mysterious events makes a teenager suspect that his mother's new boyfriend may be a dangerous serial killer known for preying on families.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Stepfather"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Strange House",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"When a big-city family moves to a remote town, two young brothers and their new friends try to solve the menacing mystery that haunts their home.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Strange House"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Strangers",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "\"A quiet stay at a remote vacation home spirals into terror for a couple when they come under attack by three masked, mysterious, murderous intruders.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Strangers"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Wedding Guest",
+                "subtitle": "\"Dramas, Romantic Movies, Thrillers\"",
+                "description": "\"Hired to extract a bride-to-be before her arranged wedding in Pakistan, a hired gun goes on the run with his hostage when his plan unravels.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Wedding Guest"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Whole Truth",
+                "subtitle": "\"Dramas, Thrillers\"",
+                "description": "\"Trying to earn an acquittal for a teen client accused of murdering his wealthy father, a defense attorney uncovers disturbing facts about the victim.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Whole Truth"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Until Midnight",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"After returning home from a work trip, a newlywed must fight off a masked intruder before his wife returns at midnight.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Until Midnight"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "What Lies Below",
+                "subtitle": "\"Horror Movies, Thrillers\"",
+                "description": "\"Back home at her lake house, a teenager begins to suspect that a sinister force lurks beneath the surface of her mother's too-perfect new lover.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about What Lies Below"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Who Am I",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"After his compatriots are murdered by Russian gangsters, a hacker confesses the history of his elite, fame-seeking group to a Europol investigator.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Who Am I"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

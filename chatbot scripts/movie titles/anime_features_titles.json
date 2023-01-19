@@ -1,0 +1,58 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "InuYasha the Movie: Affections Touching Across Time",
+                "subtitle": "\"Action & Adventure, Anime Features, International Movies\"",
+                "description": "\"A powerful demon has been sealed away for 200 years. But when the demon's son is awakened, the fate of the world is in jeopardy.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about InuYasha the Movie: Affections Touching Across Time"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Monster Hunter: Legends of the Guild",
+                "subtitle": "\"Action & Adventure, Anime Features, Children & Family Movies\"",
+                "description": "\"In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Monster Hunter: Legends of the Guild"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+                "subtitle": "\"Action & Adventure, Anime Features, International Movies\"",
+                "description": "\"Naruto, Sasuke and Sakura learn they'll be protecting an actress from being hurt while making her next film, but it turns out she's a princess.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Naruto the Movie: Ninja Clash in the Land of Snow"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

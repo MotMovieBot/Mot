@@ -1,0 +1,442 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "A Monster Calls",
+                "subtitle": "\"Dramas, Sci-Fi & Fantasy\"",
+                "description": "\"Overwhelmed by his mother\u2019s illness, a young boy begins to understand human complexity through the fantastic tales of a consoling tree monster.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Monster Calls"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Battle: Los Angeles",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"Led by their skillful staff sergeant, a platoon of gutsy Marines fights to protect all humankind from astonishingly powerful aliens.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Battle: Los Angeles"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Battlefield Earth",
+                "subtitle": "\"Action & Adventure, Cult Movies, Sci-Fi & Fantasy\"",
+                "description": "\"In the year 3000, an alien race known as the Psychlos devastate planet Earth and force the surviving human population into slavery.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Battlefield Earth"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Beowulf",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "This deftly animated take on a legendary Old English epic tells the timeless tale of a Scandinavian hero who's known for slaying dragons.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Beowulf"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Chappie",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"In a futuristic society where an indestructible robot police force keeps crime at bay, a lone droid evolves to the next level of artificial intelligence.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Chappie"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Cloudy with a Chance of Meatballs",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"When inventor Flint Lockwood makes clouds rain food, the citizens of Chewandswallow can feed themselves. But a bowl of disaster is about to overflow.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Cloudy with a Chance of Meatballs"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Crimson Peak",
+                "subtitle": "\"Horror Movies, Romantic Movies, Sci-Fi & Fantasy\"",
+                "description": "\"After marrying a mysterious British aristocrat, a young heiress moves into his crumbling, creepy ancestral home and finds it conceals sinister secrets.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Crimson Peak"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Dark Skies",
+                "subtitle": "\"Horror Movies, Sci-Fi & Fantasy\"",
+                "description": "\"A family\u2019s idyllic suburban life shatters when an alien force invades their home, and as they struggle to convince others of the deadly threat.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Dark Skies"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Escape from Planet Earth",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"This all-ages animated comedy follows the adventures of astronaut Scorch Supernova, a hero of the blue aliens who has a vast appetite for adventure.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Escape from Planet Earth"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Green Lantern",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "Test pilot Hal Jordan harnesses glowing new powers for good when he wears an otherworldly ring and helps an intergalactic force stop a powerful threat.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Green Lantern"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Inception",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy, Thrillers\"",
+                "description": "A troubled thief who extracts secrets from people's dreams takes one last job: leading a dangerous mission to plant an idea in a target's subconscious.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Inception"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Kingsglaive: Final Fantasy XV",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "King Regis of Lucis orders his Kingsglaive warriors to stop the army of Niflheim before it invades and steals the crystal that gives Lucis its power.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Kingsglaive: Final Fantasy XV"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Level 16",
+                "subtitle": "\"Sci-Fi & Fantasy, Thrillers\"",
+                "description": "\"In a bleak academy that teaches girls the virtues of passivity, two students uncover the ghastly purpose behind their training and resolve to escape.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Level 16"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Mortal Kombat",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "Three fighters travel to the mystical realm of Outworld to test their might in a tournament against an evil demon with plans to take over the world.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Mortal Kombat"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Paradise Hills",
+                "subtitle": "\"Sci-Fi & Fantasy, Thrillers\"",
+                "description": "\"Uma wakes up in a lush tropical facility designed to turn willful girls into perfect ladies. That\u2019s bad enough, but its real purpose is even worse.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Paradise Hills"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Planet 51",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"After landing on a planet reminiscent of 1950s suburbia, a human astronaut tries to avoid capture, recover his spaceship and make it home safely.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Planet 51"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Prospect",
+                "subtitle": "\"Sci-Fi & Fantasy, Thrillers\"",
+                "description": "A father and daughter travel to an alien moon in search of a valuable gem but are forced to alter their plans when a nefarious outlaw gets involved.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Prospect"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ratchet and Clank",
+                "subtitle": "\"Children & Family Movies, Comedies, Sci-Fi & Fantasy\"",
+                "description": "Affable alien Ratchet longs to be a Galactic Ranger and might get the chance when rogue robot Clank tells him of evil Drek's plot to destroy a galaxy.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ratchet and Clank"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Star Trek",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"On their first voyage aboard the starship Enterprise, cocky rebel James T. Kirk and logic-driven Vulcan Spock try to defeat a vengeful Romulan commander.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Star Trek"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Starship Troopers: Traitor of Mars",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"When a corrupt official plans to sabotage the planet Mars, it\u2019s up to Rico and a group of fresh recruits to fend off a surprise bug attack on their own.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Starship Troopers: Traitor of Mars"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Darkest Hour",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "Young Americans visit Moscow when the city is turned upside down by an alien invasion and band together with the locals to fight back.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Darkest Hour"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Time Trap",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"While searching for their missing archaeology professor, a group of students discovers a cave where time passes differently than it does on the surface.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Time Trap"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Underworld",
+                "subtitle": "\"Action & Adventure, Horror Movies, Sci-Fi & Fantasy\"",
+                "description": "A vampire warrior begins to question her mission in the ancient war between the undead and werewolves when she falls for a human under her protection.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Underworld"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Vampire Academy",
+                "subtitle": "\"Action & Adventure, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"A half-human, half-vampire teen must prepare for class and her destiny as the protector of mortal vampires against their vicious immortal counterparts.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Vampire Academy"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "What Dreams May Come",
+                "subtitle": "\"Dramas, Romantic Movies, Sci-Fi & Fantasy\"",
+                "description": "\"A physician finds himself in heaven after an accident, inhabiting the landscape of his wife's paintings while seeking to rescue her from the underworld.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about What Dreams May Come"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Winchester",
+                "subtitle": "\"Horror Movies, Sci-Fi & Fantasy\"",
+                "description": "The heiress to a vast firearms fortune constructs a mansion with a maze-like interior to ward off the spirits of those killed by her family's product.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Winchester"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Zathura",
+                "subtitle": "\"Children & Family Movies, Sci-Fi & Fantasy\"",
+                "description": "\"A mysterious game sends two brothers flying into space, where they must reach the planet Zathura \u2014 or be trapped in galactic limbo forever.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Zathura"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "A Perfect Ending",
+                "subtitle": "\"Dramas, Independent Movies, LGBTQ Movies\"",
+                "description": "\"After confessing an unusual secret, a repressed wife \u2013 prompted by her friends \u2013 decides to explore her sexuality with a high-priced call girl.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Perfect Ending"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "I Care a Lot",
+                "subtitle": "\"Comedies, LGBTQ Movies, Thrillers\"",
+                "description": "A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about I Care a Lot"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pray Away",
+                "subtitle": "\"Documentaries, LGBTQ Movies\"",
+                "description": "Ex-leaders and a survivor of the so-called \\conversion therapy\\\" movement speak out about its harm to the LGBTQ+ community and its devastating persistence.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Pray Away"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Snervous Tyler Oakley",
+                "subtitle": "\"Documentaries, LGBTQ Movies\"",
+                "description": "The inspiring Internet star and LGBT advocate shares an intimate view of his life and relationships during his international \\Slumber Party\\\" tour.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Snervous Tyler Oakley"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

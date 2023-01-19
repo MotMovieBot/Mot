@@ -1,0 +1,42 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "Blue Miracle",
+                "subtitle": "\"Children & Family Movies, Dramas, Faith & Spirituality\"",
+                "description": "\"To save their cash-strapped orphanage, a guardian and his kids partner with a washed-up boat captain for a chance to win a lucrative fishing competition.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blue Miracle"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Same Kind of Different as Me",
+                "subtitle": "\"Dramas, Faith & Spirituality\"",
+                "description": "A wealthy couple whose marriage is on the rocks befriends a local homeless man who changes their perspectives in this inspiring true story.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Same Kind of Different as Me"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

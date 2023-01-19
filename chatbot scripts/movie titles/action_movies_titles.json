@@ -1,0 +1,570 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "America: The Motion Picture",
+                "subtitle": "\"Action & Adventure, Comedies\"",
+                "description": "A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about America: The Motion Picture"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Army of the Dead",
+                "subtitle": "\"Action & Adventure, Horror Movies\"",
+                "description": "\"After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Army of the Dead"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Battle: Los Angeles",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"Led by their skillful staff sergeant, a platoon of gutsy Marines fights to protect all humankind from astonishingly powerful aliens.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Battle: Los Angeles"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Battlefield Earth",
+                "subtitle": "\"Action & Adventure, Cult Movies, Sci-Fi & Fantasy\"",
+                "description": "\"In the year 3000, an alien race known as the Psychlos devastate planet Earth and force the surviving human population into slavery.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Battlefield Earth"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Beowulf",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "This deftly animated take on a legendary Old English epic tells the timeless tale of a Scandinavian hero who's known for slaying dragons.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Beowulf"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Black Beach",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "A lawyer with a promising future is forced to deep dive into his past when he agrees to negotiate with an old friend turned kidnapper.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Black Beach"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Blade Runner: The Final Cut",
+                "subtitle": "\"Action & Adventure, Classic Movies, Cult Movies\"",
+                "description": "\"In a smog-choked dystopian Los Angeles, blade runner Rick Deckard is called out of retirement to snuff a quartet of escaped \\\"replicants.\\\"\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blade Runner: The Final Cut"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Brick Mansions",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "An undercover police detective partners with an ex-convict to take down a drug kingpin amid grime and crime in a walled-off Detroit housing project.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Brick Mansions"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Chappie",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"In a futuristic society where an indestructible robot police force keeps crime at bay, a lone droid evolves to the next level of artificial intelligence.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Chappie"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Charlie's Angels",
+                "subtitle": "\"Action & Adventure, Comedies\"",
+                "description": "A tight-knit trio of specially trained agents wield weapons \u2014 and charm \u2014 as they track down stolen software in this reboot of the classic TV series.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Charlie's Angels"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Due Date",
+                "subtitle": "\"Action & Adventure, Comedies\"",
+                "description": "\"Days before his pregnant wife's due date, Peter lands on the \\\"no-fly\\\" list, forcing him to drive across the country with an irritating slacker.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Due Date"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Green Lantern",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "Test pilot Hal Jordan harnesses glowing new powers for good when he wears an otherworldly ring and helps an intergalactic force stop a powerful threat.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Green Lantern"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Inception",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy, Thrillers\"",
+                "description": "A troubled thief who extracts secrets from people's dreams takes one last job: leading a dangerous mission to plant an idea in a target's subconscious.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Inception"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Initial D",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "\"By day, an 18-year-old delivers tofu for his father, a retired race car driver",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Initial D"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Into the Grizzly Maze",
+                "subtitle": "\"Action & Adventure, Horror Movies\"",
+                "description": "Estranged brothers Beckett and Rowan reunite in the Alaskan wild to confront a savage grizzly bear wreaking havoc on their hometown.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Into the Grizzly Maze"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "InuYasha the Movie: Affections Touching Across Time",
+                "subtitle": "\"Action & Adventure, Anime Features, International Movies\"",
+                "description": "\"A powerful demon has been sealed away for 200 years. But when the demon's son is awakened, the fate of the world is in jeopardy.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about InuYasha the Movie: Affections Touching Across Time"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Kingsglaive: Final Fantasy XV",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "King Regis of Lucis orders his Kingsglaive warriors to stop the army of Niflheim before it invades and steals the crystal that gives Lucis its power.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Kingsglaive: Final Fantasy XV"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Monster Hunter: Legends of the Guild",
+                "subtitle": "\"Action & Adventure, Anime Features, Children & Family Movies\"",
+                "description": "\"In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Monster Hunter: Legends of the Guild"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Mortal Kombat",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "Three fighters travel to the mystical realm of Outworld to test their might in a tournament against an evil demon with plans to take over the world.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Mortal Kombat"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+                "subtitle": "\"Action & Adventure, Anime Features, International Movies\"",
+                "description": "\"Naruto, Sasuke and Sakura learn they'll be protecting an actress from being hurt while making her next film, but it turns out she's a princess.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Naruto the Movie: Ninja Clash in the Land of Snow"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pineapple Express",
+                "subtitle": "\"Action & Adventure, Comedies\"",
+                "description": "\"After witnessing a murder, a perpetually stoned process server and his good-natured dealer go on the run from a drug lord who's out to kill them.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Pineapple Express"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "S.W.A.T.: Under Siege",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "\"When a S.W.A.T. team takes in a mysterious, high-profile prisoner, international threats unleash a barrage of attacks on their compound to retrieve him.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about S.W.A.T.: Under Siege"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Snowpiercer",
+                "subtitle": "\"Action & Adventure, Cult Movies, International Movies\"",
+                "description": "The Earth's remaining inhabitants are confined to a single train circling the globe as revolution brews among the class-divided cars.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Snowpiercer"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Star Trek",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"On their first voyage aboard the starship Enterprise, cocky rebel James T. Kirk and logic-driven Vulcan Spock try to defeat a vengeful Romulan commander.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Star Trek"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Starship Troopers: Traitor of Mars",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"When a corrupt official plans to sabotage the planet Mars, it\u2019s up to Rico and a group of fresh recruits to fend off a surprise bug attack on their own.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Starship Troopers: Traitor of Mars"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Team America: World Police",
+                "subtitle": "\"Action & Adventure, Comedies, Cult Movies\"",
+                "description": "\"In this musical satire, an all-marionette police force takes on the challenging role of keeping the peace on a troubled planet.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Team America: World Police"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Darkest Hour",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "Young Americans visit Moscow when the city is turned upside down by an alien invasion and band together with the locals to fight back.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Darkest Hour"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Interview",
+                "subtitle": "\"Action & Adventure, Comedies\"",
+                "description": "Seth Rogen and James Franco star in this provocative comedy about two journalists recruited by the CIA after they arrange an interview with Kim Jong-un.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Interview"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Karate Kid",
+                "subtitle": "\"Action & Adventure, Children & Family Movies, Classic Movies\"",
+                "description": "\"When a bullied teen befriends an unassuming martial arts master, he\u2019ll learn life lessons \u2014 and the right moves \u2014 to beat back his merciless rivals.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Karate Kid"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Paper Tigers",
+                "subtitle": "\"Action & Adventure, Comedies\"",
+                "description": "\"After reuniting as middle-aged men, three kung-fu prodigies must set their differences aside and dust off their skills to avenge their beloved mentor.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Paper Tigers"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Tourist",
+                "subtitle": "\"Action & Adventure, Romantic Movies\"",
+                "description": "An American tourist seeking solace for his shattered heart instead finds it in danger again after encountering a beautiful Interpol agent.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Tourist"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Whole Nine Yards",
+                "subtitle": "\"Action & Adventure, Comedies\"",
+                "description": "An unhappily married dentist becomes mixed up with mobsters and murder plots when he discovers that a notorious hit man has moved in next door.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Whole Nine Yards"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Time Trap",
+                "subtitle": "\"Action & Adventure, Sci-Fi & Fantasy\"",
+                "description": "\"While searching for their missing archaeology professor, a group of students discovers a cave where time passes differently than it does on the surface.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Time Trap"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Underworld",
+                "subtitle": "\"Action & Adventure, Horror Movies, Sci-Fi & Fantasy\"",
+                "description": "A vampire warrior begins to question her mission in the ancient war between the undead and werewolves when she falls for a human under her protection.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Underworld"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Vampire Academy",
+                "subtitle": "\"Action & Adventure, Comedies, Sci-Fi & Fantasy\"",
+                "description": "\"A half-human, half-vampire teen must prepare for class and her destiny as the protector of mortal vampires against their vicious immortal counterparts.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Vampire Academy"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

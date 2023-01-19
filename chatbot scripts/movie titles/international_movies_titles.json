@@ -1,0 +1,810 @@
+{
+    "message": "Click the button 'Tell me more' to have more information about a title",
+    "platform": "kommunicate",
+    "metadata": {
+        "contentType": "300",
+        "templateId": "10",
+        "payload": [
+            {
+                "title": "Blue, Painful, Fragile",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Kaede and Hisano form a club to change the world. When Hisano vanishes, Kaede throws himself into bringing the club back to its idealistic roots.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Blue, Painful, Fragile"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "40 Sticks",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"When their prison bus crashes in a forest on a rainy night, a group of criminals finds themselves battling wild animals and a mysterious killer.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about 40 Sticks"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Classic Horror Story",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"In this gruesome suspense film, strangers traveling in southern Italy become stranded in the woods, where they must fight desperately to get out alive.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Classic Horror Story"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "A Very Special Love",
+                "subtitle": "\"International Movies, Romantic Movies\"",
+                "description": "\"After landing a job working for her longtime crush, an optimistic woman realizes that the man of her dreams isn't exactly who she envisioned.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about A Very Special Love"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Accomplice",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "Traverse the globe with the world's top riders as they pedal through rugged terrain and majestic locations in this visual homage to the bicycle.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Accomplice"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Al acecho",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Looking for a fresh start, a park ranger gets a new assignment. When he discovers a network of poachers, survival depends on his lethal instincts.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Al acecho"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Andhakaaram",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"As a blind librarian, dispirited cricketer and desolate psychiatrist each seek retribution and release, their lives overlap under eerie influences.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Andhakaaram"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Black Beach",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "A lawyer with a promising future is forced to deep dive into his past when he agrees to negotiate with an old friend turned kidnapper.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Black Beach"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Brave Blue World: Racing to Solve Our Water Crisis",
+                "subtitle": "\"Documentaries, International Movies\"",
+                "description": "\"From reuse to energy generation, new innovations across five continents are explored in this documentary about building a future for sustainable water.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Brave Blue World: Racing to Solve Our Water Crisis"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Brick Mansions",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "An undercover police detective partners with an ex-convict to take down a drug kingpin amid grime and crime in a walled-off Detroit housing project.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Brick Mansions"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Cadaver",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"When a peculiar hotel dinner show draws crowds during a postapocalyptic famine, one family discovers they'll pay much more than the price of admission.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Cadaver"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Don\u2019t Listen",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"After a tragic turn of events at the new home he's fixing up, Daniel hears a ghostly plea for help, spurring him to seek out a famous paranormal expert.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Don\u2019t Listen"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ghost Lab",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"After witnessing a haunting in their hospital, two doctors become dangerously obsessed with obtaining scientific proof that ghosts exist.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ghost Lab"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "HOMUNCULUS",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "Truth and illusion blurs when a homeless amnesiac awakens from an experimental medical procedure with the ability to see people's innermost traumas.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about HOMUNCULUS"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Hospital",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"In an abandoned hospital in Tainan, visitors seeking to communicate with their relatives' spirits are haunted by disturbing, supernatural occurrences.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Hospital"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Initial D",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "\"By day, an 18-year-old delivers tofu for his father, a retired race car driver",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Initial D"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "InuYasha the Movie: Affections Touching Across Time",
+                "subtitle": "\"Action & Adventure, Anime Features, International Movies\"",
+                "description": "\"A powerful demon has been sealed away for 200 years. But when the demon's son is awakened, the fate of the world is in jeopardy.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about InuYasha the Movie: Affections Touching Across Time"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Isa Pa with Feelings",
+                "subtitle": "\"International Movies, Romantic Movies\"",
+                "description": "\"When an aspiring architect falls for her Deaf neighbor, they develop a connection and set out to form their own love language despite their differences.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Isa Pa with Feelings"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Just The Way You Are",
+                "subtitle": "\"International Movies, Romantic Movies\"",
+                "description": "An overconfident teen bets he can make a homely transfer student fall in love with him in 30 days \u2014 but the wager starts to play games with his heart.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Just The Way You Are"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Kaali Khuhi",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"When a restless spirit curses a village that has a history of female infanticide, the town's fate lies in the hands of a 10-year-old girl.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Kaali Khuhi"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Layer Cake",
+                "subtitle": "\"Independent Movies, International Movies, Thrillers\"",
+                "description": "\"A suave, steely-eyed London cocaine dealer's retirement plans hit a violent snag when his boss asks him to do one more job.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Layer Cake"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Love Is a Story",
+                "subtitle": "\"International Movies, Music & Musicals, Romantic Movies\"",
+                "description": "\"Two young artists, a violin player and an actress, fight to achieve their dreams and keep their relationship together during Christmastime.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Love Is a Story"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Made You Look: A True Story About Fake Art",
+                "subtitle": "\"Documentaries, International Movies\"",
+                "description": "\"A woman walks into a New York gallery with a cache of unknown masterworks. Thus begins a story of art world greed, willfulness and a high-stakes con.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Made You Look: A True Story About Fake Art"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Mandela: Long Walk to Freedom",
+                "subtitle": "\"Dramas, International Movies\"",
+                "description": "This in-depth biopic portrays groundbreaking South African leader Nelson Mandela's fight against political oppression and virulent racism.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Mandela: Long Walk to Freedom"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Misha and the Wolves",
+                "subtitle": "\"Documentaries, International Movies\"",
+                "description": "\"As a little girl, she escaped the Holocaust and lived among wolves. Or did she? An extraordinary story elicits sympathy \u2014 then draws scrutiny.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Misha and the Wolves"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "My Amnesia Girl",
+                "subtitle": "\"International Movies, Romantic Movies\"",
+                "description": "\"Years after leaving his bride-to-be at the altar, a man crosses paths with his ex and tries to make up for the past, only to find he's been forgotten.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about My Amnesia Girl"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+                "subtitle": "\"Action & Adventure, Anime Features, International Movies\"",
+                "description": "\"Naruto, Sasuke and Sakura learn they'll be protecting an actress from being hurt while making her next film, but it turns out she's a princess.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Naruto the Movie: Ninja Clash in the Land of Snow"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Nobody Sleeps in the Woods Tonight",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"Addicted to technology, a group of teens attends a rehabilitation camp in the forest, but a sinister force there intends to take them offline forever.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Nobody Sleeps in the Woods Tonight"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Not a Game",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "\"This documentary offers an honest look at our fraught, complex relationship to video games from the perspectives of gamers and their concerned parents.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Not a Game"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pagpag: Nine Lives",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"After ignoring superstitions, a group of teenagers find themselves in a fight for their lives when they are haunted \u2014 and hunted \u2014 by an evil spirit.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Pagpag: Nine Lives"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Pel\u00e9",
+                "subtitle": "\"Documentaries, International Movies, Sports Movies\"",
+                "description": "\"Against the backdrop of a turbulent era in Brazil, this documentary captures Pel\u00e9\u2019s extraordinary path from breakthrough talent to national hero.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Pel\u00e9"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ragini MMS",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "A couple out to have a sensuous weekend at a house outside of Mumbai finds it rigged with surveillance cameras and occupied by an evil entity.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ragini MMS"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Ragini MMS 2",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "The horror continues when Ragini's video goes viral and a sleazy director decides to make a movie about the incident in the original house.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Ragini MMS 2"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Red Dot",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Trying to rekindle their marriage and with a child on the way, a young couple on a ski trip suddenly finds themselves stalked by remorseless killers.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Red Dot"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "S.W.A.T.: Under Siege",
+                "subtitle": "\"Action & Adventure, International Movies\"",
+                "description": "\"When a S.W.A.T. team takes in a mysterious, high-profile prisoner, international threats unleash a barrage of attacks on their compound to retrieve him.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about S.W.A.T.: Under Siege"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Sakaling Maging Tayo",
+                "subtitle": "\"International Movies, Romantic Movies\"",
+                "description": "\"A college student seizes his chance with a crush when an unexpected encounter turns into a night of bold dares, deep confessions and possible romance.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Sakaling Maging Tayo"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Skater Girl",
+                "subtitle": "\"Children & Family Movies, Dramas, International Movies\"",
+                "description": "\"When a teen in rural India discovers a life-changing passion for skateboarding, she faces a rough road as she follows her dream to compete.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Skater Girl"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Snowpiercer",
+                "subtitle": "\"Action & Adventure, Cult Movies, International Movies\"",
+                "description": "The Earth's remaining inhabitants are confined to a single train circling the globe as revolution brews among the class-divided cars.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Snowpiercer"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The 8th Night",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"With prayer beads in one hand and an ax in the other, a monk hunts down a millennia-old spirit that's possessing humans and unleashing hell on Earth.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The 8th Night"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Call",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"Connected by phone in the same home but 20 years apart, a serial killer puts another woman\u2019s past \u2014 and life \u2014 on the line to change her own fate.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Call"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Day of the Lord",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"In this horror movie, a retired priest haunted by his sins is pulled back into the darkness when a friend begs him to help his possessed daughter.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Day of the Lord"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Pianist",
+                "subtitle": "\"Dramas, Independent Movies, International Movies\"",
+                "description": "Famed Polish pianist Wladyslaw Szpilman struggles to survive the onslaught of Nazi tyranny during World War II in this drama based on his memoirs.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Pianist"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Queen",
+                "subtitle": "\"Dramas, International Movies\"",
+                "description": "\"After Princess Diana's death, Queen Elizabeth II and Tony Blair face public demands that she be memorialized in a manner beyond standard protocol.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Queen"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Rope Curse 2",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "\"After a purification ritual unravels, a conflicted Taoist priest attempts to help a lonely young psychic whose aunt is possessed by a powerful demon.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Rope Curse 2"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Strange House",
+                "subtitle": "\"Horror Movies, International Movies, Thrillers\"",
+                "description": "\"When a big-city family moves to a remote town, two young brothers and their new friends try to solve the menacing mystery that haunts their home.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Strange House"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "The Swarm",
+                "subtitle": "\"Horror Movies, Independent Movies, International Movies\"",
+                "description": "\"A single mother breeds locusts as high-protein food, but has trouble getting them to reproduce \u2014 until she finds they have a taste for blood.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about The Swarm"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "This Little Love Of Mine",
+                "subtitle": "\"International Movies, Romantic Movies\"",
+                "description": "A workaholic lawyer returns to her island home to convince an old friend to take over his family\u2019s company \u2014 but rekindled feelings soon get in the way.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about This Little Love Of Mine"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "U-Turn",
+                "subtitle": "\"Horror Movies, International Movies\"",
+                "description": "A young reporter's investigation into a string of grisly suicides takes a dangerous detour when she follows the clues to a cursed stretch of road.",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about U-Turn"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Until Midnight",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"After returning home from a work trip, a newlywed must fight off a masked intruder before his wife returns at midnight.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Until Midnight"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Who Am I",
+                "subtitle": "\"International Movies, Thrillers\"",
+                "description": "\"After his compatriots are murdered by Russian gangsters, a hacker confesses the history of his elite, fame-seeking group to a Europol investigator.\"",
+                "buttons": [
+                    {
+                        "name": "Tell me more",
+                        "action": {
+                            "payload": {
+                                "message": "Tell me more about Who Am I"
+                            },
+                            "type": "quickReply"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
